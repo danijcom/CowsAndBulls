@@ -20,6 +20,6 @@ I used **Microsoft Visual Studio** environment for development.
 
 You just need to **clone or download** my repository, create new blank VisualStudio C++ project and add all my **.cpp** and **.h** files as well as **assets** folder.
 
-Then you need to **download SFML** (I used SFML v2.5.1) and add **configure your project** according to [this guide](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
+Then you need to **download SFML** (I used SFML v2.5.1) and **configure your project** according to [this guide](https://www.sfml-dev.org/tutorials/2.5/start-vc.php).
 
 **Thats all.** Now ensure that you have correct paths for all assets (Game.cpp file, line 90-110) and **build your project!**
